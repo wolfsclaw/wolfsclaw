@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wolfsclaw
+- 👋 Hi, I’m Matthew Marsh
 - 👀 I’m interested in computer science, computer graphics, and web design
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on computer processes
