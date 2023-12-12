@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on computer processes
 - 📫 How to reach me wolfsclaw52575@msn.com
+- 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 How you interpret something in your mind and how the customer interprets what they want in their mind are two different things.  Understanding where the customer is coming from and their vision is important in helping to interpret their needs.  Creating the user stories helps to put your thoughts and ideas into writing, so you can understand what the customer's needs are.  This will help you to understand what the customer's vision is.
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
